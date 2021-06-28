@@ -42,8 +42,9 @@ The Java String is immutable which means it cannot be changed. Whenever we chang
 
 ## Searching
 * Linear Search
-* Binart Search
-* 
+* Binary Search
+
+
 ## Arrays 
 ## LinkedList
 ## Doubly Linked List
