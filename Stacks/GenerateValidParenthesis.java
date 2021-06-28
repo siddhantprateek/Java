@@ -1,5 +1,6 @@
-package StackQueues;
-import java.util.*;
+package Stacks;
+
+import java.util.ArrayList;
 public class GenerateValidParenthesis {
     public static void main(String[] args){
         System.out.print(generateParenthesis2(5));
