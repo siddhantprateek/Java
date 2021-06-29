@@ -1,4 +1,6 @@
 # Java
+[Problems](PROBLEMS.md)
+
 ## Strings
 The CharSequence interface is used to represent the sequence of characters. String,  [StringBuffer](https://www.javatpoint.com/StringBuffer-class)  and  [StringBuilder](https://www.javatpoint.com/StringBuilder-class)  classes implement it. It means, we can create strings in java by using these three classes.
 ### CharSequence Interface

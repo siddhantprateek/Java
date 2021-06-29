@@ -20,7 +20,7 @@ public class ArrayMethods {
         System.out.print(arrayList+"\n");
 
         // Check if an array contains a certain value
-        String[] stringsArray = {"a", "b", "c", "d", "e"};
+        // String[] stringsArray = {"a", "b", "c", "d", "e"};
         boolean b = Arrays.asList(stringArray).contains("b");
         boolean c = Arrays.asList(stringArray).contains("f");
         System.out.println(b);
