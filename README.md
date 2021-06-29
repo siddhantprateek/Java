@@ -32,13 +32,13 @@ The Java String is immutable which means it cannot be changed. Whenever we chang
 |[hashCode()](https://www.w3schools.com/java/ref_string_hashcode.asp)  |Returns the hash code of a string  |int  |
 
 ## Sorting
- * Bubble Sort
- * Insertion Sort
- * Merge Sort
- * Heap Sort
- * Selection Sort 
- * Quick Sort
- * Bucket Sort
+ - [x] [Bubble Sort](/Sorting/Main.java)
+ - [x] [Insertion Sort](/Sorting/InsertionSort.java)
+ - [x] [Merge Sort](/Sorting/MergeSort.java)
+ - [x] [Heap Sort](/Sorting/HeapSort.java)
+ - [x] [Selection Sort](/Sorting/Selection.java) 
+ - [ ] [Quick Sort](/Sorting/)
+ - [ ] [Bucket Sort](/Sorting/)
 
 ## Searching
 * Linear Search
