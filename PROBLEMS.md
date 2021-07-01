@@ -1,5 +1,5 @@
  **Lists**
-- [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- [x] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 - [ ] [Design Skiplist](https://leetcode.com/problems/design-skiplist/)
 
 **Stacks**
@@ -51,10 +51,10 @@
 
 ## Algorithms - Analysis Time and Space - ( 3 Weeks )
 ### Sorting  **- 2 Days**
-- [ ] Selection Sort - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] Bubble Sort - [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] Insertion Sort - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-- [ ] Merge Sort - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+- [x] Selection Sort - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] Bubble Sort - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] Insertion Sort - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+- [x] Merge Sort - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [ ] Quick Sort
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
