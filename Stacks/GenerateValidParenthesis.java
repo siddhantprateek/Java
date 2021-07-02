@@ -8,7 +8,7 @@ public class GenerateValidParenthesis {
 
     // method 1
     public static List<String> generateParenthesis2(int n){
-        List<String> ans = new ArrayList();
+        List<String> ans = new ArrayList<>();
         if (n == 0) {
             ans.add("");
         } else {
