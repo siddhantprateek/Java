@@ -1,6 +1,10 @@
 # Sorting Algorithm
 
 ### Insertion Sort
+
+<p align="center">
+    <img  src="https://miro.medium.com/max/3480/1*yDFbup1kr9sB0OGOxhfEaQ.gif" alt="Insertion Sort"/>
+</p>
 In insertion sort we take a element and arrange in sorted array, where the left most part of the array is sorted and right most part are unsorted 
 * Each item is picked and swapped into the sorted left part of the array until `Array[j] < Array[j - 1]`
 * The index should not be less then zero.
@@ -20,6 +24,12 @@ for (int i = 1; i < Array.length; i++){
 }
 ```
 ### Bubble Sort
+
+<p align="center">
+    <img  src="https://miro.medium.com/max/3463/1*jCuqA5rX9ZkS0ecFgBhstA.gif" alt="bubble Sort"/>
+</p>
+
+
 _Worst complexity: n^2_ 
 _Average complexity: n^2_
 _Best complexity: n_
@@ -34,6 +44,11 @@ for (int i = 0; i < n-1; i++) {
 }
 ```
 ### Merge Sort
+
+<p align="center">
+    <img  src="https://miro.medium.com/max/3825/1*dpho84T29TjBbmzoDicILA.gif" alt="Merge Sort"/>
+</p>
+
 _Worst complexity: n*log(n)_
 _Average complexity: n*log(n)_
 _Best complexity: n*log(n)_
@@ -62,6 +77,34 @@ for (int k = left; k <= right; k++){
     }  
 }
 ```
+### Selection Sort
+
+<p align="center">
+    <img  src="https://gifimage.net/wp-content/uploads/2018/05/selection-sort-gif-12.gif" alt="selection Sort"/>
+</p>
+
+```java
+for (int j = 0; j < a.length; j++) {
+    int minimumIndex = j;
+    for (int i = j+1; i<a.length; i++) {
+        if (a[i] < a[minimumIndex]) {
+            minimumIndex = i;
+        }
+    }
+    if (minimumIndex != j) {
+        /* swapping */
+        int temp = a[j];
+        a[j] = a[minimumIndex];
+        a[minimumIndex] = temp;
+    }
+}
+```
+
+
+### QuickSort
+<p align="center">
+    <img  src="https://miro.medium.com/max/3463/1*li2R53Ax1CHoFlpkNgudtQ.gif" alt="Quick Sort"/>
+</p>
 
 ### Heap Sort
 HeapSort Algorithm uses a binary tree. HeapSort comprises of two steps:

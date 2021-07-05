@@ -50,7 +50,7 @@
     - [ ] [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)
 
 ## Algorithms - Analysis Time and Space - ( 3 Weeks )
-- [ ] ### Sorting  **- 2 Days**
+- [ ] Sorting  **- 2 Days**
     - [x] Selection Sort - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
     - [x] Bubble Sort - [Sort Colors](https://leetcode.com/problems/sort-colors/)
     - [x] Insertion Sort - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)

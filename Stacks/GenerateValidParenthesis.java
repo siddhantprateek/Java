@@ -1,6 +1,7 @@
 package Stacks;
 
 import java.util.ArrayList;
+import java.util.List;
 public class GenerateValidParenthesis {
     public static void main(String[] args){
         System.out.print(generateParenthesis2(5));
@@ -22,7 +23,7 @@ public class GenerateValidParenthesis {
 
     // Method 2
     public static List<String> generateParenthesis(int n){
-        List<String> combination = new ArrayList();
+        List<String> combination = new ArrayList<>();
         generateAll(new char[2*n], 0, combination);
         System.out.print(combination);
         return combination;
