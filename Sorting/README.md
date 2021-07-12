@@ -1,4 +1,4 @@
-# Sorting Algorithm
+<h1 align="center">Sorting Algorithm</h1>
 
 ### Insertion Sort
 
