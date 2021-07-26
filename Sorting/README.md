@@ -1,9 +1,9 @@
-# Sorting Algorithm
+<h1 align="center">Sorting Algorithm</h1>
 
 ### Insertion Sort
 
 <p align="center">
-    <img  src="https://miro.medium.com/max/3480/1*yDFbup1kr9sB0OGOxhfEaQ.gif" alt="Insertion Sort"/>
+    <img  src="https://miro.medium.com/max/3480/1*yDFbup1kr9sB0OGOxhfEaQ.gif" height="500vh" width="800vw" alt="Insertion Sort"/>
 </p>
 In insertion sort we take a element and arrange in sorted array, where the left most part of the array is sorted and right most part are unsorted 
 * Each item is picked and swapped into the sorted left part of the array until `Array[j] < Array[j - 1]`
@@ -46,7 +46,7 @@ for (int i = 0; i < n-1; i++) {
 ### Merge Sort
 
 <p align="center">
-    <img  src="https://miro.medium.com/max/3825/1*dpho84T29TjBbmzoDicILA.gif" alt="Merge Sort"/>
+    <img  src="https://miro.medium.com/max/3825/1*dpho84T29TjBbmzoDicILA.gif" height="500vh" width="800vw" alt="Merge Sort"/>
 </p>
 
 _Worst complexity: n*log(n)_
