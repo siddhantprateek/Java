@@ -1,12 +1,17 @@
-# Java
-[Problems](PROBLEMS.md)
+<h1 align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java"/> Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java"/></h1>
 
-## Strings
+✔ Mark Your Problem Progress Here 👉 [Problems](PROBLEMS.md)
+
+### Space and Time Complexity
+## 📌 Strings
 The CharSequence interface is used to represent the sequence of characters. String,  [StringBuffer](https://www.javatpoint.com/StringBuffer-class)  and  [StringBuilder](https://www.javatpoint.com/StringBuilder-class)  classes implement it. It means, we can create strings in java by using these three classes.
-### CharSequence Interface
+### 📌 CharSequence Interface
 The CharSequence interface is used to represent the sequence of characters. String,  [StringBuffer](https://www.javatpoint.com/StringBuffer-class)  and  [StringBuilder](https://www.javatpoint.com/StringBuilder-class)  classes implement it. It means, we can create strings in java by using these three classes.
 
-![CharSequence in Java](https://static.javatpoint.com/images/core/charsequence.png)
+
+<p align="center">
+<img src="https://static.javatpoint.com/images/core/charsequence.png" alt="CharSequence in Java"/>
+</p>
 The Java String is immutable which means it cannot be changed. Whenever we change any string, a new instance is created. For mutable strings, you can use StringBuffer and StringBuilder classes.
 
 
@@ -33,7 +38,12 @@ The Java String is immutable which means it cannot be changed. Whenever we chang
 |[trim()](https://www.w3schools.com/java/ref_string_trim.asp)  |Removes whitespace from both ends of a string  |String  |
 |[hashCode()](https://www.w3schools.com/java/ref_string_hashcode.asp)  |Returns the hash code of a string  |int  |
 
-## Sorting
+
+
+
+
+
+## 📌 Sorting
  - [x] [Bubble Sort](/Sorting/Main.java)
  - [x] [Insertion Sort](/Sorting/InsertionSort.java)
  - [x] [Merge Sort](/Sorting/MergeSort.java)
@@ -42,27 +52,28 @@ The Java String is immutable which means it cannot be changed. Whenever we chang
  - [ ] [Quick Sort](/Sorting/)
  - [ ] [Bucket Sort](/Sorting/)
 
-## Searching
+## 📌 Searching
 * Linear Search
 * Binary Search
 
 
-## Arrays 
-## LinkedList
-## Doubly Linked List
-## Circular Doubly Linked List
-## Stacks
-## Queue
-## Binary Search Tree
+
+## 📌 Arrays 
+## 📌 LinkedList
+## 📌 Doubly Linked List
+## 📌 Circular Doubly Linked List
+## 📌 Stacks
+## 📌 Queue
+## 📌 Binary Search Tree
 
 Binary Search Tree is a node-based binary tree data structure which has the following properties:
 
-The left subtree of a node contains only nodes with keys lesser than the node’s key.
-The right subtree of a node contains only nodes with keys greater than the node’s key.
-The left and right subtree each must also be a binary search tree.
+- 👉 The left subtree of a node contains only nodes with keys lesser than the node’s key.
+- 👉 The right subtree of a node contains only nodes with keys greater than the node’s key.
+- 👉 The left and right subtree each must also be a binary search tree.
 
-## Trees (Binary Tree)
-## AVL Tree
-## Binary Heap
-## Graphs
-## Dynamic Programming
+## 📌 Trees (Binary Tree)
+## 📌 AVL Tree
+## 📌 Binary Heap
+## 📌 Graphs
+## 📌 Dynamic Programming
