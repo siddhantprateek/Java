@@ -1,5 +1,7 @@
 package LinkedList.LLImp;
 
+import java.util.Scanner;
+
 class Node {
     int val;
     Node next;
@@ -13,12 +15,17 @@ class Node {
 public class LinkedList {
     public static Node head;
     public static void main(String[] args){
-        insert(10);
-        insert(20);
-        insert(30);
-        insert(40);
-        insert(50);
-        insert(60);
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter No. of Entries: ");
+        int times = input.nextInt();
+        System.out.print("Enter Values:");
+        while(times > 0){
+//            int val = input.nextInt();
+            insert(input.nextInt());
+            times--;
+        }
+
         display();
         insertAtBeginning(80);
         insertAtAnyPosition(15, 3);

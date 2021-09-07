@@ -11,7 +11,7 @@ public class ArrayMethods {
         int[] intArray = { 1, 2, 3, 4, 5 };
         String intArrayString = Arrays.toString(intArray);
         // will print the reference value of intArray
-        System.out.println(intArray);
+        System.out.println(Arrays.toString(intArray));
         System.out.println(intArrayString);
 
         //Create an ArrayList from an array
