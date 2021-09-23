@@ -2,3 +2,5 @@
 
 ✔ Mark Your Problem Progress Here 👉 [Problems](PROBLEMS.md)
 
+### Notes
+- [Notion Notes](https://siddhantprateek.notion.site/Data-Structures-Algorithm-Java-FAANG-0a42becebb18457c88119d2e70088aed)
